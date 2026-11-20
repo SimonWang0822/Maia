@@ -1,0 +1,11 @@
+need_id,name,description,category,school,purpose_tags,amount_needed,amount_funded,needed_by_date,priority,status
+N001,Engineering Undergraduate Tuition Awards,Tuition scholarships for four undergraduate engineering students.,scholarship,engineering,scholarship,20000,0,2027-01-15,high,unfunded
+N002,Engineering Teaching Lab Oscilloscopes,Purchase eight oscilloscopes for the undergraduate engineering teaching lab.,lab_equipment,engineering,lab_equipment,28000,0,2026-12-15,high,unfunded
+N003,Arts and Sciences Graduate TA Support,Fund two graduate teaching assistant appointments for introductory science courses.,ta_support,arts_sciences,ta_support,24000,0,2027-01-20,high,unfunded
+N004,Medicine Graduate Tuition Scholarships,Tuition scholarships for graduate students in the medicine school.,scholarship,medicine,scholarship,30000,0,2027-02-01,high,unfunded
+N005,Engineering Graduate Tuition Scholarship,A tuition scholarship for a graduate engineering student.,scholarship,engineering,scholarship,15000,0,2027-01-15,medium,unfunded
+N006,Engineering Scholarship with Missing Student Level,Engineering tuition scholarship request; the application does not specify undergraduate or graduate status.,scholarship,engineering,scholarship,10000,0,2027-03-01,medium,unfunded
+N007,Engineering Lab Imaging System,Purchase a lab imaging system; the request exceeds the equipment fund's available balance.,lab_equipment,engineering,lab_equipment,65000,0,2026-12-10,high,unfunded
+N008,Engineering Lab Workstations for February,"Purchase lab workstations in February, after the equipment fund's spend-by date.",lab_equipment,engineering,lab_equipment,18000,0,2027-02-01,low,unfunded
+N009,Engineering Undergraduate Conference Travel,Travel and lodging for undergraduate engineering students attending a conference.,travel,engineering,travel,6000,0,2026-12-05,low,unfunded
+N010,Business Undergraduate TA Support,Fund undergraduate teaching assistants for introductory business courses.,ta_support,business,ta_support,12000,0,2027-01-20,high,unfunded

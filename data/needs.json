@@ -1,0 +1,152 @@
+[
+  {
+    "need_id": "N001",
+    "name": "Engineering Undergraduate Tuition Awards",
+    "description": "Tuition scholarships for four undergraduate engineering students.",
+    "category": "scholarship",
+    "school": "engineering",
+    "purpose_tags": [
+      "scholarship"
+    ],
+    "amount_needed": 20000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-01-15",
+    "priority": "high",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N002",
+    "name": "Engineering Teaching Lab Oscilloscopes",
+    "description": "Purchase eight oscilloscopes for the undergraduate engineering teaching lab.",
+    "category": "lab_equipment",
+    "school": "engineering",
+    "purpose_tags": [
+      "lab_equipment"
+    ],
+    "amount_needed": 28000,
+    "amount_funded": 0,
+    "needed_by_date": "2026-12-15",
+    "priority": "high",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N003",
+    "name": "Arts and Sciences Graduate TA Support",
+    "description": "Fund two graduate teaching assistant appointments for introductory science courses.",
+    "category": "ta_support",
+    "school": "arts_sciences",
+    "purpose_tags": [
+      "ta_support"
+    ],
+    "amount_needed": 24000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-01-20",
+    "priority": "high",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N004",
+    "name": "Medicine Graduate Tuition Scholarships",
+    "description": "Tuition scholarships for graduate students in the medicine school.",
+    "category": "scholarship",
+    "school": "medicine",
+    "purpose_tags": [
+      "scholarship"
+    ],
+    "amount_needed": 30000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-02-01",
+    "priority": "high",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N005",
+    "name": "Engineering Graduate Tuition Scholarship",
+    "description": "A tuition scholarship for a graduate engineering student.",
+    "category": "scholarship",
+    "school": "engineering",
+    "purpose_tags": [
+      "scholarship"
+    ],
+    "amount_needed": 15000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-01-15",
+    "priority": "medium",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N006",
+    "name": "Engineering Scholarship with Missing Student Level",
+    "description": "Engineering tuition scholarship request; the application does not specify undergraduate or graduate status.",
+    "category": "scholarship",
+    "school": "engineering",
+    "purpose_tags": [
+      "scholarship"
+    ],
+    "amount_needed": 10000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-03-01",
+    "priority": "medium",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N007",
+    "name": "Engineering Lab Imaging System",
+    "description": "Purchase a lab imaging system; the request exceeds the equipment fund's available balance.",
+    "category": "lab_equipment",
+    "school": "engineering",
+    "purpose_tags": [
+      "lab_equipment"
+    ],
+    "amount_needed": 65000,
+    "amount_funded": 0,
+    "needed_by_date": "2026-12-10",
+    "priority": "high",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N008",
+    "name": "Engineering Lab Workstations for February",
+    "description": "Purchase lab workstations in February, after the equipment fund's spend-by date.",
+    "category": "lab_equipment",
+    "school": "engineering",
+    "purpose_tags": [
+      "lab_equipment"
+    ],
+    "amount_needed": 18000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-02-01",
+    "priority": "low",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N009",
+    "name": "Engineering Undergraduate Conference Travel",
+    "description": "Travel and lodging for undergraduate engineering students attending a conference.",
+    "category": "travel",
+    "school": "engineering",
+    "purpose_tags": [
+      "travel"
+    ],
+    "amount_needed": 6000,
+    "amount_funded": 0,
+    "needed_by_date": "2026-12-05",
+    "priority": "low",
+    "status": "unfunded"
+  },
+  {
+    "need_id": "N010",
+    "name": "Business Undergraduate TA Support",
+    "description": "Fund undergraduate teaching assistants for introductory business courses.",
+    "category": "ta_support",
+    "school": "business",
+    "purpose_tags": [
+      "ta_support"
+    ],
+    "amount_needed": 12000,
+    "amount_funded": 0,
+    "needed_by_date": "2027-01-20",
+    "priority": "high",
+    "status": "unfunded"
+  }
+]

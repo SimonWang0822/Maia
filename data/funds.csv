@@ -1,0 +1,6 @@
+fund_id,name,type,restriction_text,school,purpose_tags,reporting_month,opening_balance,inflows,monthly_spending,available_balance,spend_by_date
+F001,Synthetic Engineering Undergraduate Scholarship Fund,gift,Funds may only support undergraduate scholarships in the engineering school. Lab equipment is excluded.,engineering,scholarship,2026-11-01,80000,15000,20000,75000,2027-06-30
+F002,Synthetic Engineering Lab Equipment Fund,grant,Funds may only purchase lab equipment for the engineering school. Travel is excluded.,engineering,lab_equipment,2026-11-01,60000,10000,20000,50000,2026-12-31
+F003,Synthetic Arts and Sciences Graduate TA Fund,gift,Funds may only support graduate teaching assistants in the arts and sciences school.,arts_sciences,ta_support,2026-11-01,35000,15000,10000,40000,2027-06-30
+F004,Synthetic University Scholarship and TA Fund,gift,Funds may only support scholarships or teaching assistant support for students of any level at any school.,university_wide,scholarship;ta_support,2026-11-01,110000,20000,30000,100000,
+F005,Synthetic Engineering Donor Intent Fund,gift,"Support deserving engineering students and related educational activities, subject to donor intent.",engineering,scholarship;lab_equipment;ta_support,2026-11-01,55000,10000,5000,60000,2027-06-30

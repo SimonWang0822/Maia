@@ -1,0 +1,85 @@
+[
+  {
+    "fund_id": "F001",
+    "name": "Synthetic Engineering Undergraduate Scholarship Fund",
+    "type": "gift",
+    "restriction_text": "Funds may only support undergraduate scholarships in the engineering school. Lab equipment is excluded.",
+    "school": "engineering",
+    "purpose_tags": [
+      "scholarship"
+    ],
+    "reporting_month": "2026-11-01",
+    "opening_balance": 80000,
+    "inflows": 15000,
+    "monthly_spending": 20000,
+    "available_balance": 75000,
+    "spend_by_date": "2027-06-30"
+  },
+  {
+    "fund_id": "F002",
+    "name": "Synthetic Engineering Lab Equipment Fund",
+    "type": "grant",
+    "restriction_text": "Funds may only purchase lab equipment for the engineering school. Travel is excluded.",
+    "school": "engineering",
+    "purpose_tags": [
+      "lab_equipment"
+    ],
+    "reporting_month": "2026-11-01",
+    "opening_balance": 60000,
+    "inflows": 10000,
+    "monthly_spending": 20000,
+    "available_balance": 50000,
+    "spend_by_date": "2026-12-31"
+  },
+  {
+    "fund_id": "F003",
+    "name": "Synthetic Arts and Sciences Graduate TA Fund",
+    "type": "gift",
+    "restriction_text": "Funds may only support graduate teaching assistants in the arts and sciences school.",
+    "school": "arts_sciences",
+    "purpose_tags": [
+      "ta_support"
+    ],
+    "reporting_month": "2026-11-01",
+    "opening_balance": 35000,
+    "inflows": 15000,
+    "monthly_spending": 10000,
+    "available_balance": 40000,
+    "spend_by_date": "2027-06-30"
+  },
+  {
+    "fund_id": "F004",
+    "name": "Synthetic University Scholarship and TA Fund",
+    "type": "gift",
+    "restriction_text": "Funds may only support scholarships or teaching assistant support for students of any level at any school.",
+    "school": "university_wide",
+    "purpose_tags": [
+      "scholarship",
+      "ta_support"
+    ],
+    "reporting_month": "2026-11-01",
+    "opening_balance": 110000,
+    "inflows": 20000,
+    "monthly_spending": 30000,
+    "available_balance": 100000,
+    "spend_by_date": null
+  },
+  {
+    "fund_id": "F005",
+    "name": "Synthetic Engineering Donor Intent Fund",
+    "type": "gift",
+    "restriction_text": "Support deserving engineering students and related educational activities, subject to donor intent.",
+    "school": "engineering",
+    "purpose_tags": [
+      "scholarship",
+      "lab_equipment",
+      "ta_support"
+    ],
+    "reporting_month": "2026-11-01",
+    "opening_balance": 55000,
+    "inflows": 10000,
+    "monthly_spending": 5000,
+    "available_balance": 60000,
+    "spend_by_date": "2027-06-30"
+  }
+]
