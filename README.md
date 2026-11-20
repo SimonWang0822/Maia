@@ -106,7 +106,7 @@ reserve balances across needs.
 
 ## API and output
 
-The client uses `https://api.meta.ai/v1/responses`, model `muse-wonder-1.0`, and
+The client uses `https://api.meta.ai/v1/responses`, model `muse-ember-1.0`, and
 `Authorization: Bearer $MODEL_API_KEY`. It sends the fund ID and restriction text
 in a nonstreaming `input_text` request. There is at most one call per fund, with
 up to three concurrent calls. Standalone `None` is handled as the schema's explicit
