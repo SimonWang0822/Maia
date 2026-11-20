@@ -67,7 +67,7 @@ class ExtractorTests(unittest.TestCase):
         url, args = session.calls[0]
         self.assertEqual(url, API_URL)
         self.assertEqual(args["headers"]["Authorization"], "Bearer test-secret")
-        self.assertEqual(args["json"]["model"], "muse-wonder-1.0")
+        self.assertEqual(args["json"]["model"], "muse-ember-1.0")
         self.assertFalse(args["json"]["stream"])
         self.assertEqual(args["json"]["input"][0]["role"], "user")
         self.assertEqual(args["json"]["input"][0]["content"][0]["type"], "input_text")

@@ -18,7 +18,7 @@ from .data import canonical_tag, parse_json
 
 
 API_URL = "https://api.meta.ai/v1/responses"
-DEFAULT_MODEL = "muse-wonder-1.0"
+DEFAULT_MODEL = "muse-ember-1.0"
 RAW_KEYS = {
     "fund_id", "all_conditions_captured", "rules", "unresolved_conditions",
     "unrestricted_evidence",

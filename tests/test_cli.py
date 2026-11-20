@@ -60,7 +60,7 @@ class PipelineTests(unittest.TestCase):
         self.assertNotIn("assumptions", report)
         self.assertEqual(report["summary"]["match"], 1)
         group = report["fund_results"][0]
-        self.assertEqual(group["extraction"]["model"], "muse-wonder-1.0")
+        self.assertEqual(group["extraction"]["model"], "muse-ember-1.0")
         self.assertEqual(group["results"][0]["rank"], 1)
         self.assertEqual(group["results"][0]["ranking_details"], {
             "priority": "medium", "needed_by_date": "2027-01-15",
